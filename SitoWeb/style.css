@@ -1,0 +1,17 @@
+body
+{
+    background-color: chartreuse;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+}
+
+.header nav ul
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 4px;
+
+}
